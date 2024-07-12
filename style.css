@@ -1,0 +1,32 @@
+.main-color {
+    background-color: rgb(5, 111, 76) !important;
+}
+
+.hoveerad card{
+    transition: .3s;
+}
+.hoverad-card:hover {
+    transform:scale (1.2);
+}
+
+.container-fluid {
+    background-color: rgb(5, 111, 76);
+    text-align: center;
+}
+
+.icon-service{
+    width: 90px;
+    height: 90px;
+    border: solid  #fff 2px;
+    border-radius: 50%;
+    color:#fff
+}
+
+.card {
+    background-color: rgba(48, 152, 161, 0.872);
+}
+
+.container {
+    box-sizing: content-box;
+}
+
